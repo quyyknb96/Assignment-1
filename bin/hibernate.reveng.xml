@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="restaurantconceptual" match-name="booking"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="customer"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="ingredient_type"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="ingredients"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="menu"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="menu_item"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="menu_item_ingredient"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="order_menu_item"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="orders"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="staff"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="staff_role"/>
+  <table-filter match-catalog="restaurantconceptual" match-name="tables"/>
+</hibernate-reverse-engineering>
